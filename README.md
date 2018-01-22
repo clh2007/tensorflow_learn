@@ -16,3 +16,9 @@ https://www.jianshu.com/p/3c7f329b29ee
 from skimage  import data,io,transform 
 from skimage.color import rgb2gray 
 
+
+
+
+
+
+上述资料皆是摘自互联网，仅用于学习
